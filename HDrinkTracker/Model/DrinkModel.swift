@@ -7,7 +7,10 @@
 
 import Foundation
 
-struct Drink {
+struct Drink: Identifiable {
+    var id: String {
+        self.name
+    }
     let name: String
     let calories: Int
     let fat: Int

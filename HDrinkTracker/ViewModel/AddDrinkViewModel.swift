@@ -7,7 +7,7 @@
 
 import Foundation
 
-class AddDrinkViewModel {
+class AddDrinkViewModel: ObservableObject {
     @Published var name: String = ""
     @Published var calories: String = ""
     @Published var fat: String = ""
