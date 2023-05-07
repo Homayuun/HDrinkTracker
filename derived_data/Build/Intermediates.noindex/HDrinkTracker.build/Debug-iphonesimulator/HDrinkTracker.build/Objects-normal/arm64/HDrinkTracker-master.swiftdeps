@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d249f8f527a5513eb99aeaf90f13f4477539569a25e91ef1862d904a7ab23b32"
+build_start_time: [1683473879, 664753913]
+build_end_time: [1683473879, 961171150]
+inputs:
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTracker/HDrinkTrackerApp.swift": [1683472261, 564637184]
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTracker/Model/DrinkModel.swift": [1683472110, 361462593]
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTracker/Screens/AddDrinkView.swift": [1683472261, 573436737]
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTracker/ViewModel/AddDrinkViewModel.swift": [1683471949, 812049388]

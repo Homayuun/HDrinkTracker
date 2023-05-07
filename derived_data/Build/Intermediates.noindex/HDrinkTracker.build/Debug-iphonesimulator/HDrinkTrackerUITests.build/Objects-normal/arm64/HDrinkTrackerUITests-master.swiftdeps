@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "94d02ec7667312b4c9aa027fdaba6c9e9a20f14c90d0bed5ccef5411c8599ab9"
+build_start_time: [1683473880, 35876989]
+build_end_time: [1683473880, 162840843]
+inputs:
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTrackerUITests/HDrinkTrackerUITests.swift": [1683469560, 367238759]
+  "/Users/homayun/Desktop/HDrinkTracker/HDrinkTrackerUITests/HDrinkTrackerUITestsLaunchTests.swift": [1683469560, 369062423]

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/homayun/Desktop/HDrinkTracker/HDrinkTracker/Screens/AddDrinkView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Name"
+      },
+      {
+        "comment": "",
+        "key": "Calories"
+      },
+      {
+        "comment": "",
+        "key": "Fat"
+      },
+      {
+        "comment": "",
+        "key": "Milliliters"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "Calories: %lld"
+      },
+      {
+        "comment": "",
+        "key": "Fat: %lld"
+      },
+      {
+        "comment": "",
+        "key": "Milliliters: %lld"
+      }
+    ]
+  },
+  "version": 1
+}

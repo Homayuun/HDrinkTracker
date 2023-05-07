@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+HDrinkTracker in HDrinkTracker, no dependencies
+HDrinkTrackerTests in HDrinkTracker, depends on:
+HDrinkTracker in HDrinkTracker (explicit)
+HDrinkTrackerUITests in HDrinkTracker, depends on:
+HDrinkTracker in HDrinkTracker (explicit)

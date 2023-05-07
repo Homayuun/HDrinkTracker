@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1E53D5FE-1817-4FA2-A7E2-4B33007286E2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>CD8BD18C-2466-4268-BB29-ED33CA9D1B7F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-HDrinkTracker-1402.02.17_19-07-51-+0330.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasCoverageData</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HDrinkTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HDrinkTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run HDrinkTracker</string>
+			<key>timeStartedRecording</key>
+			<real>705166671.11065495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run HDrinkTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>1E53D5FE-1817-4FA2-A7E2-4B33007286E2</string>
+		</dict>
+		<key>F3017000-0FAE-45C8-9746-C757A2612242</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>1BA3277F-8F56-4B14-8B06-3012BD551F6C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-HDrinkTracker-1402.02.17_19-04-08-+0330.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasCoverageData</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HDrinkTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HDrinkTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run HDrinkTracker</string>
+			<key>timeStartedRecording</key>
+			<real>705166448.81394696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run HDrinkTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>F3017000-0FAE-45C8-9746-C757A2612242</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

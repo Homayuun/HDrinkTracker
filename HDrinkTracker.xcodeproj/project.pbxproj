@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C4F04B22A07EC7700FA8318 /* HDrinkTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4F04B12A07EC7700FA8318 /* HDrinkTrackerApp.swift */; };
-		1C4F04B42A07EC7700FA8318 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4F04B32A07EC7700FA8318 /* ContentView.swift */; };
+		1C4F04B42A07EC7700FA8318 /* AddDrinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4F04B32A07EC7700FA8318 /* AddDrinkView.swift */; };
 		1C4F04B62A07EC7800FA8318 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C4F04B52A07EC7800FA8318 /* Assets.xcassets */; };
 		1C4F04B92A07EC7800FA8318 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C4F04B82A07EC7800FA8318 /* Preview Assets.xcassets */; };
 		1C4F04CD2A07EC7800FA8318 /* HDrinkTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4F04CC2A07EC7800FA8318 /* HDrinkTrackerUITests.swift */; };
@@ -38,7 +38,7 @@
 /* Begin PBXFileReference section */
 		1C4F04AE2A07EC7700FA8318 /* HDrinkTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HDrinkTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C4F04B12A07EC7700FA8318 /* HDrinkTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HDrinkTrackerApp.swift; sourceTree = "<group>"; };
-		1C4F04B32A07EC7700FA8318 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1C4F04B32A07EC7700FA8318 /* AddDrinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDrinkView.swift; sourceTree = "<group>"; };
 		1C4F04B52A07EC7800FA8318 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C4F04B82A07EC7800FA8318 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1C4F04BE2A07EC7800FA8318 /* HDrinkTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HDrinkTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -136,7 +136,7 @@
 		1C4F04DB2A07ED8900FA8318 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				1C4F04B32A07EC7700FA8318 /* ContentView.swift */,
+				1C4F04B32A07EC7700FA8318 /* AddDrinkView.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -297,7 +297,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C4F04E12A07EDA800FA8318 /* DrinkModel.swift in Sources */,
-				1C4F04B42A07EC7700FA8318 /* ContentView.swift in Sources */,
+				1C4F04B42A07EC7700FA8318 /* AddDrinkView.swift in Sources */,
 				1C4F04B22A07EC7700FA8318 /* HDrinkTrackerApp.swift in Sources */,
 				1C4F04DF2A07ED9C00FA8318 /* AddDrinkViewModel.swift in Sources */,
 			);
